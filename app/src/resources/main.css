@@ -1,0 +1,23 @@
+*, html, body {
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+header,
+footer {
+  background-color: aliceblue;
+  padding: 1em 10px;
+}
+
+header,
+main,
+footer {
+  margin: 0 auto;
+  padding: 1em 10px;
+  max-width: 1080px;
+}
+
+p.js {
+  color: darkgrey;
+}
